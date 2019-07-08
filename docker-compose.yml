@@ -1,0 +1,13 @@
+version: "3.7"
+services:
+    fm.riboflav.in:
+        build: .
+        container_name: "fm.riboflav.in"
+        hostname: "fm.riboflav.in"
+        domainname: "riboflav.in"
+        restart: "always"
+        ports:
+        - "8000:80"
+        privileged: "yes"
+        volumes:
+        - "/dev/bus/usb/:/dev/bus/usb/"

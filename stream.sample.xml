@@ -1,0 +1,16 @@
+<ezstream>
+    <url>http://localhost:80/vorbis</url>
+    <sourcepassword>hackme</sourcepassword>
+    <format>VORBIS</format>
+    <filename>stdin</filename>
+    <stream_once>1</stream_once>
+    <svrinfoname>Jazz FM (CJRT FM)</svrinfoname>
+    <svrinfourl>http://jazz.fm</svrinfourl>
+    <svrinfogenre>JAZZ FM (CJRT FM)</svrinfogenre>
+    <svrinfodescription>Playing the best music in the world</svrinfodescription>
+    <svrinfobitrate>180</svrinfobitrate>
+    <svrinfoquality>10</svrinfoquality>
+    <svrinfochannels>2</svrinfochannels>
+    <svrinfosamplerate>44100</svrinfosamplerate>
+    <svrinfopublic>0</svrinfopublic>
+</ezstream>
